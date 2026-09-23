@@ -1,3 +1,4 @@
 password
 file1.txt is updated
 another update
+.
